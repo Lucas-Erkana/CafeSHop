@@ -12,3 +12,6 @@ body{
 .flavor{
     text-align: left;
 }
+.price{
+    text-align:right;
+  }
