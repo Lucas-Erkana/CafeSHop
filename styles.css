@@ -32,6 +32,8 @@ body{
   }
   .item p{
     display: inline-block;
+    margin-top:5px;
+    margin-bottom:5px;
   }
   .established{
     font-style:italic;
