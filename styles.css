@@ -68,11 +68,11 @@ body{
     color:black;
   }
   a:visited{
-    color:grey;
+    color:black;
   }
   a:hover{
     color:brown;
   }
   a:active{
-    color:white;
+    color:brown;
   }
