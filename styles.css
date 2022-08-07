@@ -26,3 +26,6 @@ body{
   .item p{
     display: inline-block;
   }
+  .established{
+    font-style:italic;
+  }
