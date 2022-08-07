@@ -24,6 +24,11 @@ body{
     padding:20px;
     max-width:500px;
 }
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
 .flavor, .dessert {
     text-align: left;
     width:75%;
